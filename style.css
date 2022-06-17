@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-image: url("bg-intro-desktop.png");
+    background-color: hsl(0, 100%, 74%);
+    font-family:[Poppins](https://fonts.google.com/specimen/Poppins) ;
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh ;
+}
+
+.container{
+    max-width: 700px;
+    width: 100%;
+    background-color: white;
+
+}
+
+.title{
+    background-color: blue;
+    color: white;
+    height: 50px;
+}
+.form{
+    background-color: white;
+}
+.Bigwords{
+    color: white;
+
+}
+
